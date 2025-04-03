@@ -44,7 +44,7 @@ const Vote = () => {
     loadCandidates();
     fetchVotingStatus();
   }, []);
-
+  
   const handleVote = async (candidateId) => {
     try {
       const accounts = await web3.eth.getAccounts();

@@ -1,5 +1,5 @@
-#BlockchainVotingApp
-##E-Voting Web Application - Mini Project
+`# BlockchainVotingApp`
+E-Voting Web Application - Mini Project
 A decentralized and transparent e-voting system built using Ethereum, Solidity, React, and Web3.js. 
 This application enables secure voter registration, voting, and result management on the blockchain, ensuring tamper-proof elections.
 

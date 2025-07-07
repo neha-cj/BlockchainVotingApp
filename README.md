@@ -13,6 +13,10 @@
 - Alerts and validation for common issues (e.g., duplicate voting)
 ---
 
+
+![VoteChain Screenshot](https://github.com/neha-cj/BlockchainVotingApp/raw/main/public/BlockChainVoting.jpg)
+
+
 ## Tech Stack
 <table>
   <tr><td><b>Smart Contract</b></td><td>Solidity, Truffle</td></tr>

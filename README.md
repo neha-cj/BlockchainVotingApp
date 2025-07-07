@@ -24,10 +24,10 @@
 
 ## Installation & Setup
 ### Prerequisites
--Node.js
--Truffle
--Ganache
--MetaMask Extension
+- Node.js
+- Truffle
+- Ganache
+- MetaMask Extension
 
 ### Clone the Repository
 git clone https://github.com/neha-cj/BlockchainVotingApp.git

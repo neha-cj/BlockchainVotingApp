@@ -14,10 +14,12 @@
 ---
 
 ## Tech Stack
-|Smart Contract        |	Solidity, Truffle|
-|Frontend              |	React.js         |
-|Blockchain Interaction|	Web3.js          |
-|Development Blockchain|	Ganache          |
+<table>
+  <tr><td><b>Smart Contract</b></td><td>Solidity, Truffle</td></tr>
+  <tr><td><b>Frontend</b></td><td>React.js</td></tr>
+  <tr><td><b>Blockchain Interaction</b></td><td>Web3.js</td></tr>
+  <tr><td><b>Development Blockchain</b></td><td>Ganache</td></tr>
+</table>
 
 
 ## Installation & Setup

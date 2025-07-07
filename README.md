@@ -14,7 +14,7 @@
 ---
 
 
-![VoteChain Screenshot](https://github.com/neha-cj/BlockchainVotingApp/raw/main/public/BlockChainVoting.jpg)
+![VoteChain Screenshot](https://github.com/neha-cj/BlockchainVotingApp/raw/version1/blockchain-app/public/BlockChainVoting.jpg)
 
 
 ## Tech Stack

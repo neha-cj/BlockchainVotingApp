@@ -1,16 +1,16 @@
 # BlockchainVotingApp
 ## E-Voting Web Application - Mini Project
-A decentralized and transparent e-voting system built using Ethereum, Solidity, React, and Web3.js. 
-This application enables secure voter registration, voting, and result management on the blockchain, ensuring tamper-proof elections.
+ A decentralized and transparent e-voting system built using Ethereum, Solidity, React, and Web3.js. 
+ This application enables secure voter registration, voting, and result management on the blockchain, ensuring tamper-proof elections.
 ---
 ## Features
--Voter self-registration using Voter ID and password
--One vote per registered voter ensured by smart contract logic
--Admin dashboard to start/end elections and manage candidates
--Real-time vote count visibility after election ends
--All data stored on the Ethereum blockchain
--User-friendly frontend built with React
--Alerts and validation for common issues (e.g., duplicate voting)
+- Voter self-registration using Voter ID and password
+- One vote per registered voter ensured by smart contract logic
+- Admin dashboard to start/end elections and manage candidates
+- Real-time vote count visibility after election ends
+- All data stored on the Ethereum blockchain
+- User-friendly frontend built with React
+- Alerts and validation for common issues (e.g., duplicate voting)
 ---
 
 ## Tech Stack
@@ -19,7 +19,6 @@ This application enables secure voter registration, voting, and result managemen
 |Blockchain Interaction|	Web3.js          |
 |Development Blockchain|	Ganache          |
 
----
 
 ## Installation & Setup
 ### Prerequisites
